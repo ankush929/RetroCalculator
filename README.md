@@ -7,3 +7,6 @@ The fundamental concepts to learn from the app is how to play sound files on par
 Screenshots of Launch Screen and Main Screen:
 
 ![Launch Screen](../master/LaunchScreen.png?raw=true)
+
+
+![Main Screen](../master/MainScreen.png?raw=true)
