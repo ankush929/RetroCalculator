@@ -6,6 +6,6 @@ The fundamental concepts to learn from the app is how to play sound files on par
 
 The Launch Screen and Main Screen are illustrated below:
 
-![Launch Screen](https://github.com/[dishitk]/[RetroCalculator]/[master]/Launch%20Screen.png?raw=true)
-![Main Screen](https://github.com/[dishitk]/[RetroCalculator]/[master]/Main%20Screen.png?raw=true)
+![Launch Screen](https://github.com/[dishitk]/[RetroCalculator]/[master]/"Launch Screen.png"?raw=true)
+![Main Screen](https://github.com/[dishitk]/[RetroCalculator]/[master]/"Main Screen.png"?raw=true)
 
